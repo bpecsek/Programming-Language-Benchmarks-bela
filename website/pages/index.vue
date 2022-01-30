@@ -90,7 +90,7 @@
           <p class="pt-5">
             <a
               class="underline bold text-blue-500"
-              href="https://github.com/hanabi1224/Programming-Language-Benchmarks"
+              href="https://github.com/bpecsek/Programming-Language-Benchmarks-bela"
               target="_blank"
               >CONTRIBUTIONS</a
             >
@@ -201,7 +201,7 @@ export default class IndexPage extends Vue {
     // const buildId = this.activeBenchmarks[0].appveyorBuildId
     // return `https://ci.appveyor.com/project/hanabi1224/another-benchmarks-game/builds/${buildId}`
     const runId = this.langs[0].benchmarks[0].githubRunId
-    return `https://github.com/hanabi1224/Programming-Language-Benchmarks/actions/runs/${runId}`
+    return `https://github.com/bpecsek/Programming-Language-Benchmarks-bela/actions/runs/${runId}`
   }
 
   get benchmarkDate() {
