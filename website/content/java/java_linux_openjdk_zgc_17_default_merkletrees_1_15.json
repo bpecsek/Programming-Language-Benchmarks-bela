@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "java",
+  "os": "linux",
+  "compiler": "openjdk/zgc",
+  "compilerVersion": "17",
+  "test": "merkletrees",
+  "code": "1.java",
+  "input": "15",
+  "timeMS": 329.3845,
+  "timeStdDevMS": 0.5891268878603042,
+  "memBytes": 291352576,
+  "cpuTimeMS": 373.3333,
+  "cpuTimeUserMS": 210.0,
+  "cpuTimeKernelMS": 163.3333,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "javac 17.0.2",
+    "start": "2022-01-30T23:04:38.5456025+00:00",
+    "finished": "2022-01-30T23:04:40.0720217+00:00",
+    "durationMs": 1526
+  },
+  "testLog": {
+    "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
+    "start": "2022-01-30T23:31:29.6474724+00:00",
+    "finished": "2022-01-30T23:31:29.93683+00:00",
+    "durationMs": 289
+  }
+}

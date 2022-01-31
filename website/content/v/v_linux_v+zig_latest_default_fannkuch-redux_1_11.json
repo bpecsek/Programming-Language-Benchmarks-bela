@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v+zig",
+  "compilerVersion": "latest",
+  "test": "fannkuch-redux",
+  "code": "1.v",
+  "input": "11",
+  "timeMS": 3540.9743,
+  "timeStdDevMS": 3.0633997731278537,
+  "memBytes": 671744,
+  "cpuTimeMS": 3533.3333,
+  "cpuTimeUserMS": 3533.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 894da4b",
+    "start": "2022-01-30T23:06:40.3290649+00:00",
+    "finished": "2022-01-30T23:06:46.3620751+00:00",
+    "durationMs": 6033
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:33:32.6461893+00:00",
+    "finished": "2022-01-30T23:33:32.9437222+00:00",
+    "durationMs": 297
+  }
+}

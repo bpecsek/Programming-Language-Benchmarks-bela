@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "lisp",
+  "os": "linux",
+  "compiler": "sbcl",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "1.cl",
+  "input": "15",
+  "timeMS": 58.4145,
+  "timeStdDevMS": 1.6751097765022256,
+  "memBytes": 135958528,
+  "cpuTimeMS": 50.0,
+  "cpuTimeUserMS": 40.0,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "SBCL 2.2.1",
+    "start": "2022-01-30T23:06:13.7889924+00:00",
+    "finished": "2022-01-30T23:06:16.0975697+00:00",
+    "durationMs": 2308
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:32:16.9977089+00:00",
+    "finished": "2022-01-30T23:32:17.1091128+00:00",
+    "durationMs": 111
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "d",
+  "os": "linux",
+  "compiler": "dmd",
+  "compilerVersion": "latest",
+  "test": "merkletrees",
+  "code": "1.d",
+  "input": "15",
+  "timeMS": 610.6784,
+  "timeStdDevMS": 10.02997852905639,
+  "memBytes": 41889792,
+  "cpuTimeMS": 653.3333,
+  "cpuTimeUserMS": 643.3333,
+  "cpuTimeKernelMS": 10.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "DMD64 D Compiler v2.098.1\nCopyright (C) 1999-2021 by The D Language Foundation, All Rights Reserved written by Walter Bright",
+    "start": "2022-01-30T23:02:56.2935415+00:00",
+    "finished": "2022-01-30T23:02:58.5042425+00:00",
+    "durationMs": 2210
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:30:47.1614278+00:00",
+    "finished": "2022-01-30T23:30:47.1914906+00:00",
+    "durationMs": 30
+  }
+}

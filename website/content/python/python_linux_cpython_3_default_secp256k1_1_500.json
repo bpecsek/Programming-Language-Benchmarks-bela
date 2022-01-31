@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "python",
+  "os": "linux",
+  "compiler": "cpython",
+  "compilerVersion": "3",
+  "test": "secp256k1",
+  "code": "1.py",
+  "input": "500",
+  "timeMS": 1495.1474,
+  "timeStdDevMS": 11.734639956272131,
+  "memBytes": 8986624,
+  "cpuTimeMS": 1483.3333,
+  "cpuTimeUserMS": 1483.3333,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-30T23:04:22.6420297+00:00",
+    "finished": "2022-01-30T23:04:22.6461452+00:00",
+    "durationMs": 4
+  },
+  "testLog": {
+    "runtimeVersion": "Python 3.10.2",
+    "start": "2022-01-30T23:32:29.4412347+00:00",
+    "finished": "2022-01-30T23:32:29.5074987+00:00",
+    "durationMs": 66
+  }
+}

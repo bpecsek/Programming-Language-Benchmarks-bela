@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "rust",
+  "os": "linux",
+  "compiler": "rustc",
+  "compilerVersion": "nightly",
+  "test": "mandelbrot",
+  "code": "9-m.rs",
+  "input": "2000",
+  "timeMS": 37.9164,
+  "timeStdDevMS": 0.7088341343361024,
+  "memBytes": 987136,
+  "cpuTimeMS": 60.0,
+  "cpuTimeUserMS": 60.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "rustc 1.60.0-nightly (a00e130da 2022-01-29)",
+    "start": "2022-01-30T23:14:47.6613593+00:00",
+    "finished": "2022-01-30T23:14:54.1532368+00:00",
+    "durationMs": 6491
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:33:23.7666576+00:00",
+    "finished": "2022-01-30T23:33:23.7761705+00:00",
+    "durationMs": 9
+  }
+}

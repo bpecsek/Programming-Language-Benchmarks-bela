@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "typescript",
+  "os": "linux",
+  "compiler": "deno",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "1.ts",
+  "input": "15",
+  "timeMS": 130.9613,
+  "timeStdDevMS": 0.6960858567734368,
+  "memBytes": 54403072,
+  "cpuTimeMS": 133.3332,
+  "cpuTimeUserMS": 126.6666,
+  "cpuTimeKernelMS": 6.6666,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "deno 1.18.1 (release, x86_64-unknown-linux-gnu)\nv8 9.8.177.6\ntypescript 4.5.2",
+    "start": "2022-01-30T23:04:34.3549396+00:00",
+    "finished": "2022-01-30T23:04:35.18564+00:00",
+    "durationMs": 830
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:33:24.6455615+00:00",
+    "finished": "2022-01-30T23:33:24.8141189+00:00",
+    "durationMs": 168
+  }
+}

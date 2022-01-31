@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "hack",
+  "os": "linux",
+  "compiler": "hhvm",
+  "compilerVersion": "latest",
+  "test": "helloworld",
+  "code": "1.hack",
+  "input": "QwQ",
+  "timeMS": 728.6336,
+  "timeStdDevMS": 1.8999529146796688,
+  "memBytes": 184000512,
+  "cpuTimeMS": 717.9999,
+  "cpuTimeUserMS": 689.9999,
+  "cpuTimeKernelMS": 28.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "hackc-9ddd1899e3c5cf4954e903514c8f4d89beadd202-4.146.0",
+    "start": "2022-01-30T23:02:51.928837+00:00",
+    "finished": "2022-01-30T23:02:53.684745+00:00",
+    "durationMs": 1755
+  },
+  "testLog": {
+    "runtimeVersion": "HipHop VM 4.146.0 (rel) (non-lowptr)\nCompiler: 1643142756_285035995\nRepo schema: f559125a34cec281a617647f42d18bd793318580",
+    "start": "2022-01-30T23:31:05.5509879+00:00",
+    "finished": "2022-01-30T23:31:07.0523094+00:00",
+    "durationMs": 1501
+  }
+}

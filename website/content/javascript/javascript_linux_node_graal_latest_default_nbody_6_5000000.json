@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "javascript",
+  "os": "linux",
+  "compiler": "node/graal",
+  "compilerVersion": "latest",
+  "test": "nbody",
+  "code": "6.js",
+  "input": "5000000",
+  "timeMS": 3803.9566,
+  "timeStdDevMS": 2.3668754938382692,
+  "memBytes": 717168640,
+  "cpuTimeMS": 5866.6666,
+  "cpuTimeUserMS": 5626.6666,
+  "cpuTimeKernelMS": 240.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": null,
+    "start": "2022-01-30T23:03:04.2774573+00:00",
+    "finished": "2022-01-30T23:03:04.2809111+00:00",
+    "durationMs": 3
+  },
+  "testLog": {
+    "runtimeVersion": "v14.17.6",
+    "start": "2022-01-30T23:31:44.6529264+00:00",
+    "finished": "2022-01-30T23:31:45.5555178+00:00",
+    "durationMs": 902
+  }
+}

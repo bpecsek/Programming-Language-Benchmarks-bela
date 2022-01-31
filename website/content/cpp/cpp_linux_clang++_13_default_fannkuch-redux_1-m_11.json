@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "cpp",
+  "os": "linux",
+  "compiler": "clang++",
+  "compilerVersion": "13",
+  "test": "fannkuch-redux",
+  "code": "1-m.cpp",
+  "input": "11",
+  "timeMS": 761.9672,
+  "timeStdDevMS": 7.0392989473384375,
+  "memBytes": 3887104,
+  "cpuTimeMS": 1490.0,
+  "cpuTimeUserMS": 1490.0,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "Ubuntu clang version 13.0.1-++20220120110924+75e33f71c2da-1~exp1~20220120231001.58\nTarget: x86_64-pc-linux-gnu\nThread model: posix\nInstalledDir: /usr/bin",
+    "start": "2022-01-30T23:03:29.279793+00:00",
+    "finished": "2022-01-30T23:03:31.5825686+00:00",
+    "durationMs": 2302
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:30:33.4109065+00:00",
+    "finished": "2022-01-30T23:30:33.4824475+00:00",
+    "durationMs": 71
+  }
+}

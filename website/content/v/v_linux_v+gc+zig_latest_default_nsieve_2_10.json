@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "v",
+  "os": "linux",
+  "compiler": "v+gc+zig",
+  "compilerVersion": "latest",
+  "test": "nsieve",
+  "code": "2.v",
+  "input": "10",
+  "timeMS": 114.6687,
+  "timeStdDevMS": 0.4449043193017348,
+  "memBytes": 3448832,
+  "cpuTimeMS": 106.6666,
+  "cpuTimeUserMS": 106.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "V 0.2.4 894da4b",
+    "start": "2022-01-30T23:09:10.836557+00:00",
+    "finished": "2022-01-30T23:09:16.9694269+00:00",
+    "durationMs": 6132
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:33:39.8652605+00:00",
+    "finished": "2022-01-30T23:33:39.870046+00:00",
+    "durationMs": 4
+  }
+}

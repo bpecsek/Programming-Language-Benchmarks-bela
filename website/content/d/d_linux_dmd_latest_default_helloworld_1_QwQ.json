@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
   "lang": "d",
   "os": "linux",
   "compiler": "dmd",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.d",
   "input": "QwQ",
-  "timeMS": 2.3601,
-  "timeStdDevMS": 0.25622034072258976,
-  "memBytes": 4046848,
+  "timeMS": 2.2742,
+  "timeStdDevMS": 0.7186267682183844,
+  "memBytes": 4153344,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1531343699",
+  "githubRunId": "1769723654",
   "buildLog": {
-    "compilerVersion": "DMD64 D Compiler v2.096.1\nCopyright (C) 1999-2021 by The D Language Foundation, All Rights Reserved written by Walter Bright",
-    "start": "2021-12-02T16:08:22.7520382+00:00",
-    "finished": "2021-12-02T16:08:24.8415538+00:00",
-    "durationMs": 2089
+    "compilerVersion": "DMD64 D Compiler v2.098.1\nCopyright (C) 1999-2021 by The D Language Foundation, All Rights Reserved written by Walter Bright",
+    "start": "2022-01-30T23:02:54.2205198+00:00",
+    "finished": "2022-01-30T23:02:56.2925212+00:00",
+    "durationMs": 2072
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2021-12-02T16:36:59.132649+00:00",
-    "finished": "2021-12-02T16:36:59.1429676+00:00",
-    "durationMs": 10
+    "start": "2022-01-30T23:30:47.1502388+00:00",
+    "finished": "2022-01-30T23:30:47.1612943+00:00",
+    "durationMs": 11
   }
 }

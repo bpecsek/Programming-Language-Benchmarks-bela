@@ -1,0 +1,29 @@
+{
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "lang": "chapel",
+  "os": "linux",
+  "compiler": "chpl",
+  "compilerVersion": "latest",
+  "test": "binarytrees",
+  "code": "3.chpl",
+  "input": "15",
+  "timeMS": 225.2369,
+  "timeStdDevMS": 1.518977396145179,
+  "memBytes": 16621568,
+  "cpuTimeMS": 216.6666,
+  "cpuTimeUserMS": 216.6666,
+  "cpuTimeKernelMS": 0.0,
+  "githubRunId": "1769723654",
+  "buildLog": {
+    "compilerVersion": "chpl version 1.25.1\n  built with LLVM version 11.0.1\nCopyright 2020-2021 Hewlett Packard Enterprise Development LP\nCopyright 2004-2019 Cray Inc.\n(See LICENSE file for more details)",
+    "start": "2022-01-30T23:02:25.5494944+00:00",
+    "finished": "2022-01-30T23:03:06.4282741+00:00",
+    "durationMs": 40878
+  },
+  "testLog": {
+    "runtimeVersion": null,
+    "start": "2022-01-30T23:30:30.7552173+00:00",
+    "finished": "2022-01-30T23:30:30.7981739+00:00",
+    "durationMs": 42
+  }
+}
