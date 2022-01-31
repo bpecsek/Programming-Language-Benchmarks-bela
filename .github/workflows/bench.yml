@@ -45,7 +45,7 @@ jobs:
             swift,
             typescript,
             v,
-            wasm,
+            # wasm,
             # wren,
             zig,
           ]
