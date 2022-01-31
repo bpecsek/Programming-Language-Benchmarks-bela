@@ -7,7 +7,7 @@ branches:
         - main
 environment:
     VERCEL_TOKEN:
-        secure: llEJ7QF57jP1KiD6LtqbbGCA
+        secure: x9mqGgWYztgaxxgbF0uCvblp
 build: off
 cache:
     - /var/lib/docker/overlay2
