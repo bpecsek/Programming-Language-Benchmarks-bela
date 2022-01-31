@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "dart",
   "os": "linux",
   "compiler": "dart",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "2.dart",
   "input": "10",
-  "timeMS": 336.8698,
-  "timeStdDevMS": 0.7183715194800191,
-  "memBytes": 11812864,
-  "cpuTimeMS": 326.6666,
-  "cpuTimeUserMS": 326.6666,
+  "timeMS": 375.5705,
+  "timeStdDevMS": 1.4996496835371955,
+  "memBytes": 14241792,
+  "cpuTimeMS": 360.0,
+  "cpuTimeUserMS": 360.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "Dart SDK version: 2.15.1 (stable) (Tue Dec 14 13:32:21 2021 +0100) on \"linux_x64\"",
-    "start": "2022-01-30T23:02:54.4345253+00:00",
-    "finished": "2022-01-30T23:03:00.6943616+00:00",
-    "durationMs": 6259
+    "start": "2022-01-31T05:45:29.69999+00:00",
+    "finished": "2022-01-31T05:45:36.8911323+00:00",
+    "durationMs": 7191
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:30:49.7472773+00:00",
-    "finished": "2022-01-30T23:30:50.1038894+00:00",
-    "durationMs": 356
+    "start": "2022-01-31T06:11:50.1425454+00:00",
+    "finished": "2022-01-31T06:11:50.5437737+00:00",
+    "durationMs": 401
   }
 }

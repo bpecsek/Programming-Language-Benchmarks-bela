@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -7,23 +7,23 @@
   "test": "merkletrees",
   "code": "1.java",
   "input": "17",
-  "timeMS": 503.9483,
-  "timeStdDevMS": 20.35784618183694,
-  "memBytes": 374542336,
-  "cpuTimeMS": 563.3332,
-  "cpuTimeUserMS": 466.6666,
-  "cpuTimeKernelMS": 96.6666,
-  "githubRunId": "1769723654",
+  "timeMS": 602.5155,
+  "timeStdDevMS": 20.163694084748798,
+  "memBytes": 377102336,
+  "cpuTimeMS": 680.0,
+  "cpuTimeUserMS": 550.0,
+  "cpuTimeKernelMS": 130.0,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "javac 17.0.2",
-    "start": "2022-01-30T23:04:08.1474704+00:00",
-    "finished": "2022-01-30T23:04:09.6285708+00:00",
-    "durationMs": 1481
+    "start": "2022-01-31T05:47:02.3212688+00:00",
+    "finished": "2022-01-31T05:47:03.9853577+00:00",
+    "durationMs": 1664
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"17.0.2\" 2022-01-18\nOpenJDK Runtime Environment (build 17.0.2+8-86)\nOpenJDK 64-Bit Server VM (build 17.0.2+8-86, mixed mode, sharing)",
-    "start": "2022-01-30T23:31:24.6515573+00:00",
-    "finished": "2022-01-30T23:31:24.8432159+00:00",
-    "durationMs": 191
+    "start": "2022-01-31T06:12:28.3849645+00:00",
+    "finished": "2022-01-31T06:12:28.5983171+00:00",
+    "durationMs": 213
   }
 }

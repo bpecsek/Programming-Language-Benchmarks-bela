@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "kotlin",
   "os": "linux",
   "compiler": "Kotlin/Native",
@@ -7,23 +7,23 @@
   "test": "nbody",
   "code": "1.kt",
   "input": "500000",
-  "timeMS": 79.2397,
-  "timeStdDevMS": 0.7601292850561661,
-  "memBytes": 2494464,
-  "cpuTimeMS": 70.0,
-  "cpuTimeUserMS": 70.0,
+  "timeMS": 90.8304,
+  "timeStdDevMS": 1.8118295973959537,
+  "memBytes": 2551808,
+  "cpuTimeMS": 80.0,
+  "cpuTimeUserMS": 80.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
-    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 839ms\n1 actionable task: 1 executed",
-    "start": "2022-01-30T23:09:43.0028813+00:00",
-    "finished": "2022-01-30T23:10:35.0512372+00:00",
-    "durationMs": 52048
+    "compilerVersion": "Type-safe dependency accessors is an incubating feature.\n\n> Task :version\nkotlinc-native 1.6.10 (JRE 11.0.13+8)\n\nDeprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.\n\nYou can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.\n\nSee https://docs.gradle.org/7.3.3/userguide/command_line_interface.html#sec:command_line_warnings\n\nBUILD SUCCESSFUL in 953ms\n1 actionable task: 1 executed",
+    "start": "2022-01-31T05:52:29.2176515+00:00",
+    "finished": "2022-01-31T05:53:25.8472943+00:00",
+    "durationMs": 56629
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:32:07.0670031+00:00",
-    "finished": "2022-01-30T23:32:07.0795388+00:00",
-    "durationMs": 12
+    "start": "2022-01-31T06:13:15.9209065+00:00",
+    "finished": "2022-01-31T06:13:15.9360819+00:00",
+    "durationMs": 15
   }
 }

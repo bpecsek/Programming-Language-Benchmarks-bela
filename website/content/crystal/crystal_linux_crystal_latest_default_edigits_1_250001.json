@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "crystal",
   "os": "linux",
   "compiler": "crystal",
@@ -7,23 +7,23 @@
   "test": "edigits",
   "code": "1.cr",
   "input": "250001",
-  "timeMS": 137.9759,
-  "timeStdDevMS": 14.48305078220748,
-  "memBytes": 7766016,
-  "cpuTimeMS": 96.6666,
+  "timeMS": 112.305,
+  "timeStdDevMS": 15.570130239660815,
+  "memBytes": 9564160,
+  "cpuTimeMS": 86.6666,
   "cpuTimeUserMS": 63.3333,
-  "cpuTimeKernelMS": 33.3333,
-  "githubRunId": "1769723654",
+  "cpuTimeKernelMS": 23.3333,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "Crystal 1.3.2 [932f193ae] (2022-01-18)\n\nLLVM: 10.0.0\nDefault target: x86_64-unknown-linux-gnu",
-    "start": "2022-01-30T23:03:16.3010662+00:00",
-    "finished": "2022-01-30T23:03:33.2582016+00:00",
-    "durationMs": 16957
+    "start": "2022-01-31T05:45:53.9297197+00:00",
+    "finished": "2022-01-31T05:46:10.6741749+00:00",
+    "durationMs": 16744
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:30:33.7356926+00:00",
-    "finished": "2022-01-30T23:30:33.7477387+00:00",
-    "durationMs": 12
+    "start": "2022-01-31T06:11:30.5394105+00:00",
+    "finished": "2022-01-31T06:11:30.5542324+00:00",
+    "durationMs": 14
   }
 }

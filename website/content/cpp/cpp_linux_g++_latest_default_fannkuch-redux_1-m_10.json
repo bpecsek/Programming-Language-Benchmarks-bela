@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "cpp",
   "os": "linux",
   "compiler": "g++",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1-m.cpp",
   "input": "10",
-  "timeMS": 68.9053,
-  "timeStdDevMS": 1.7333772930322988,
-  "memBytes": 1105920,
-  "cpuTimeMS": 120.0,
-  "cpuTimeUserMS": 120.0,
+  "timeMS": 59.0813,
+  "timeStdDevMS": 0.5152944401019663,
+  "memBytes": 1040384,
+  "cpuTimeMS": 100.0,
+  "cpuTimeUserMS": 100.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "g++ (GCC) 11.2.0\nCopyright (C) 2021 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
-    "start": "2022-01-30T23:03:36.7285436+00:00",
-    "finished": "2022-01-30T23:04:05.3782715+00:00",
-    "durationMs": 28649
+    "start": "2022-01-31T05:46:09.1815346+00:00",
+    "finished": "2022-01-31T05:46:37.1490226+00:00",
+    "durationMs": 27967
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:30:33.5169631+00:00",
-    "finished": "2022-01-30T23:30:33.5942493+00:00",
-    "durationMs": 77
+    "start": "2022-01-31T06:11:30.3132607+00:00",
+    "finished": "2022-01-31T06:11:30.3782131+00:00",
+    "durationMs": 64
   }
 }

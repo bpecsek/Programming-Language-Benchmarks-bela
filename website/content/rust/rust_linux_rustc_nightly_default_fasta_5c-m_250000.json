@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "rust",
   "os": "linux",
   "compiler": "rustc",
@@ -7,23 +7,23 @@
   "test": "fasta",
   "code": "5c-m.rs",
   "input": "250000",
-  "timeMS": 50.9073,
-  "timeStdDevMS": 1.8503213702849899,
-  "memBytes": 1421312,
-  "cpuTimeMS": 36.6666,
+  "timeMS": 59.5461,
+  "timeStdDevMS": 7.986433338063579,
+  "memBytes": 1417216,
+  "cpuTimeMS": 39.9999,
   "cpuTimeUserMS": 36.6666,
-  "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "cpuTimeKernelMS": 3.3333,
+  "githubRunId": "1771040648",
   "buildLog": {
-    "compilerVersion": "rustc 1.60.0-nightly (a00e130da 2022-01-29)",
-    "start": "2022-01-30T23:14:32.379764+00:00",
-    "finished": "2022-01-30T23:14:38.0439927+00:00",
-    "durationMs": 5664
+    "compilerVersion": "rustc 1.60.0-nightly (08df8b81d 2022-01-30)",
+    "start": "2022-01-31T05:55:29.3451188+00:00",
+    "finished": "2022-01-31T05:55:34.2781575+00:00",
+    "durationMs": 4933
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:33:23.7454833+00:00",
-    "finished": "2022-01-30T23:33:23.750364+00:00",
-    "durationMs": 4
+    "start": "2022-01-31T06:14:43.4529632+00:00",
+    "finished": "2022-01-31T06:14:43.4591312+00:00",
+    "durationMs": 6
   }
 }

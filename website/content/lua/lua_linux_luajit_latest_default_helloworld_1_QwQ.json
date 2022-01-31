@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "lua",
   "os": "linux",
   "compiler": "luajit",
@@ -7,23 +7,23 @@
   "test": "helloworld",
   "code": "1.lua",
   "input": "QwQ",
-  "timeMS": 1.9835,
-  "timeStdDevMS": 0.6688097300428576,
-  "memBytes": 2342912,
+  "timeMS": 2.208,
+  "timeStdDevMS": 0.6679080228594353,
+  "memBytes": 2347008,
   "cpuTimeMS": 0.0,
   "cpuTimeUserMS": 0.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": null,
-    "start": "2022-01-30T23:02:35.2103919+00:00",
-    "finished": "2022-01-30T23:02:35.2181987+00:00",
+    "start": "2022-01-31T05:44:58.7121627+00:00",
+    "finished": "2022-01-31T05:44:58.7191642+00:00",
     "durationMs": 7
   },
   "testLog": {
     "runtimeVersion": "LuaJIT 2.1.0-beta3 -- Copyright (C) 2005-2022 Mike Pall. https://luajit.org/",
-    "start": "2022-01-30T23:32:22.0444885+00:00",
-    "finished": "2022-01-30T23:32:22.0510233+00:00",
-    "durationMs": 6
+    "start": "2022-01-31T06:13:31.497581+00:00",
+    "finished": "2022-01-31T06:13:31.5061442+00:00",
+    "durationMs": 8
   }
 }

@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "zig",
   "os": "linux",
   "compiler": "zig",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.zig",
   "input": "11",
-  "timeMS": 3399.7948,
-  "timeStdDevMS": 6.877527208476619,
-  "memBytes": 106496,
-  "cpuTimeMS": 3390.0,
-  "cpuTimeUserMS": 3390.0,
+  "timeMS": 3162.5853,
+  "timeStdDevMS": 3.270958631655265,
+  "memBytes": 102400,
+  "cpuTimeMS": 3153.3333,
+  "cpuTimeUserMS": 3153.3333,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "0.10.0-dev.490+dd7309bde",
-    "start": "2022-01-30T23:05:45.1159246+00:00",
-    "finished": "2022-01-30T23:05:55.7281808+00:00",
-    "durationMs": 10612
+    "start": "2022-01-31T05:48:09.7140963+00:00",
+    "finished": "2022-01-31T05:48:18.1797712+00:00",
+    "durationMs": 8465
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:34:16.1248687+00:00",
-    "finished": "2022-01-30T23:34:16.4139253+00:00",
-    "durationMs": 289
+    "start": "2022-01-31T06:15:36.5416376+00:00",
+    "finished": "2022-01-31T06:15:36.8038773+00:00",
+    "durationMs": 262
   }
 }

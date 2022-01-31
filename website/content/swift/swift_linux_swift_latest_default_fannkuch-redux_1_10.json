@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "swift",
   "os": "linux",
   "compiler": "swift",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.swift",
   "input": "10",
-  "timeMS": 277.9931,
-  "timeStdDevMS": 3.1768824739566806,
+  "timeMS": 242.0031,
+  "timeStdDevMS": 1.3616224623587698,
   "memBytes": 2224128,
-  "cpuTimeMS": 270.0,
-  "cpuTimeUserMS": 270.0,
+  "cpuTimeMS": 230.0,
+  "cpuTimeUserMS": 230.0,
   "cpuTimeKernelMS": 0.0,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "Swift version 5.5.2 (swift-5.5.2-RELEASE)\nTarget: x86_64-unknown-linux-gnu",
-    "start": "2022-01-30T23:04:29.3519027+00:00",
-    "finished": "2022-01-30T23:05:17.8011575+00:00",
-    "durationMs": 48449
+    "start": "2022-01-31T05:46:50.6613948+00:00",
+    "finished": "2022-01-31T05:47:33.2420597+00:00",
+    "durationMs": 42580
   },
   "testLog": {
     "runtimeVersion": null,
-    "start": "2022-01-30T23:33:23.7898058+00:00",
-    "finished": "2022-01-30T23:33:24.0904099+00:00",
-    "durationMs": 300
+    "start": "2022-01-31T06:14:43.5056535+00:00",
+    "finished": "2022-01-31T06:14:43.7877021+00:00",
+    "durationMs": 282
   }
 }

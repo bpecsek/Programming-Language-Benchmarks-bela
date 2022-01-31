@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "java",
   "os": "linux",
   "compiler": "openjdk",
@@ -7,23 +7,23 @@
   "test": "fannkuch-redux",
   "code": "1.java",
   "input": "11",
-  "timeMS": 1747.4919,
-  "timeStdDevMS": 26.00409578566456,
-  "memBytes": 39440384,
-  "cpuTimeMS": 3366.6665,
-  "cpuTimeUserMS": 3353.3332,
+  "timeMS": 1538.2048,
+  "timeStdDevMS": 28.60376749474322,
+  "memBytes": 39481344,
+  "cpuTimeMS": 2929.9999,
+  "cpuTimeUserMS": 2916.6666,
   "cpuTimeKernelMS": 13.3333,
-  "githubRunId": "1769723654",
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "javac 18-ea",
-    "start": "2022-01-30T23:05:36.9685704+00:00",
-    "finished": "2022-01-30T23:05:38.4887689+00:00",
-    "durationMs": 1520
+    "start": "2022-01-31T05:48:38.6610381+00:00",
+    "finished": "2022-01-31T05:48:40.445457+00:00",
+    "durationMs": 1784
   },
   "testLog": {
     "runtimeVersion": "openjdk version \"18-ea\" 2022-03-22\nOpenJDK Runtime Environment (build 18-ea+31-2049)\nOpenJDK 64-Bit Server VM (build 18-ea+31-2049, mixed mode, sharing)",
-    "start": "2022-01-30T23:31:36.9185841+00:00",
-    "finished": "2022-01-30T23:31:37.2550002+00:00",
-    "durationMs": 336
+    "start": "2022-01-31T06:12:41.8409963+00:00",
+    "finished": "2022-01-31T06:12:42.2065762+00:00",
+    "durationMs": 365
   }
 }

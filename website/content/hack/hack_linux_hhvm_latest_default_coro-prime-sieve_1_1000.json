@@ -1,5 +1,5 @@
 {
-  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+  "cpuInfo": "[x86_64][2 cores] Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
   "lang": "hack",
   "os": "linux",
   "compiler": "hhvm",
@@ -7,23 +7,23 @@
   "test": "coro-prime-sieve",
   "code": "1.hack",
   "input": "1000",
-  "timeMS": 946.225,
-  "timeStdDevMS": 11.011207734546364,
-  "memBytes": 183611392,
-  "cpuTimeMS": 926.6666,
-  "cpuTimeUserMS": 886.6666,
-  "cpuTimeKernelMS": 40.0,
-  "githubRunId": "1769723654",
+  "timeMS": 1014.6986,
+  "timeStdDevMS": 75.04905222455073,
+  "memBytes": 185741312,
+  "cpuTimeMS": 989.9999,
+  "cpuTimeUserMS": 943.3333,
+  "cpuTimeKernelMS": 46.6666,
+  "githubRunId": "1771040648",
   "buildLog": {
     "compilerVersion": "hackc-9ddd1899e3c5cf4954e903514c8f4d89beadd202-4.146.0",
-    "start": "2022-01-30T23:02:50.0734579+00:00",
-    "finished": "2022-01-30T23:02:51.8346262+00:00",
-    "durationMs": 1761
+    "start": "2022-01-31T05:45:20.9646214+00:00",
+    "finished": "2022-01-31T05:45:22.5871875+00:00",
+    "durationMs": 1622
   },
   "testLog": {
     "runtimeVersion": "HipHop VM 4.146.0 (rel) (non-lowptr)\nCompiler: 1643142756_285035995\nRepo schema: f559125a34cec281a617647f42d18bd793318580",
-    "start": "2022-01-30T23:31:04.5503998+00:00",
-    "finished": "2022-01-30T23:31:05.5483963+00:00",
-    "durationMs": 997
+    "start": "2022-01-31T06:12:07.6290788+00:00",
+    "finished": "2022-01-31T06:12:08.7119327+00:00",
+    "durationMs": 1082
   }
 }
